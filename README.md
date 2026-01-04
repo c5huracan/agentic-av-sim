@@ -4,7 +4,7 @@ An agentic system for finding edge cases in comma.ai's openpilot data and matchi
 
 ## Blog Post
 
-Full writeup: [From Telemetry to Video: Bridging comma.ai Datasets with the Power of Physics and Agents](https://c5huracan.github.io/)
+Full writeup: [From Telemetry to Video: Bridging comma.ai Datasets with the Power of Physics and Agents](https://c5huracan.github.io/2026/01/03/From-telemetry-to-video.html)
 
 ## Quick Start
 
