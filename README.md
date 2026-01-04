@@ -33,5 +33,3 @@ for o in r:
 - numpy
 
 ---
-
-Copy that whole block directly into GitHub's editor.
